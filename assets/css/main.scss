@@ -1,0 +1,16 @@
+:root{
+    --primary-color: #371577;
+    --secondary-color: #190042;
+
+    --font-family: 'Prompt', sans-serif;
+}
+
+html, body{
+    transition: .5s;
+    font-family: var(--font-family);
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-family);
+    font-weight: bold;
+}

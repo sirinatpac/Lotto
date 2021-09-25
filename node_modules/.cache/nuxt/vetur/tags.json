@@ -1,0 +1,14 @@
+{
+  "ChoiceHomePage": {
+    "description": "Auto imported from components/ChoiceHomePage.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "LottoLogo": {
+    "description": "Auto imported from components/LottoLogo.vue"
+  }
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "admin",
+    "path": "/admin",
+    "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto-Form\\\\Lotto\\\\pages\\\\admin.vue",
+    "chunkName": "pages/admin",
+    "_name": "_16114d69"
+  },
+  {
+    "name": "new-lotto",
+    "path": "/new-lotto",
+    "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto-Form\\\\Lotto\\\\pages\\\\new-lotto.vue",
+    "chunkName": "pages/new-lotto",
+    "_name": "_6941b839"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto-Form\\\\Lotto\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_36bc0d28"
+  }
+]
