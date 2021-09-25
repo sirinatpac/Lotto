@@ -2,22 +2,22 @@
   {
     "name": "admin",
     "path": "/admin",
-    "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto-Form\\\\Lotto\\\\pages\\\\admin.vue",
+    "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto\\\\pages\\\\admin.vue",
     "chunkName": "pages/admin",
-    "_name": "_16114d69"
+    "_name": "_72e4806e"
   },
   {
     "name": "new-lotto",
     "path": "/new-lotto",
-    "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto-Form\\\\Lotto\\\\pages\\\\new-lotto.vue",
+    "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto\\\\pages\\\\new-lotto.vue",
     "chunkName": "pages/new-lotto",
-    "_name": "_6941b839"
+    "_name": "_18ec3e84"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto-Form\\\\Lotto\\\\pages\\\\index.vue",
+    "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto\\\\pages\\\\index.vue",
     "chunkName": "pages/index",
-    "_name": "_36bc0d28"
+    "_name": "_41752c71"
   }
 ]

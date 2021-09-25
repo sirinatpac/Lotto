@@ -3,7 +3,7 @@ import { createImage} from '~image'
 import NuxtImg from '~image/components/nuxt-img.vue'
 import NuxtPicture from '~image/components/nuxt-picture.vue'
 
-import * as staticRuntime$7524 from 'C:/Users/molov/OneDrive/Documents/GitHub/Lotto-Form/Lotto/node_modules/@nuxt/image/dist/runtime/providers/static.js'
+import * as staticRuntime$d67d from 'C:/Users/molov/OneDrive/Documents/GitHub/Lotto/node_modules/@nuxt/image/dist/runtime/providers/static.js'
 
 const imageOptions = {
   "screens": {
@@ -22,7 +22,7 @@ const imageOptions = {
 }
 
 imageOptions.providers = {
-  ['static']: { provider: staticRuntime$7524, defaults: {} }
+  ['static']: { provider: staticRuntime$d67d, defaults: {} }
 }
 
 Vue.component(NuxtImg.name, NuxtImg)
