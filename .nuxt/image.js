@@ -4,6 +4,7 @@ import NuxtImg from '~image/components/nuxt-img.vue'
 import NuxtPicture from '~image/components/nuxt-picture.vue'
 
 import * as staticRuntime$d67d from 'C:/Users/molov/OneDrive/Documents/GitHub/Lotto/node_modules/@nuxt/image/dist/runtime/providers/static.js'
+import * as imagekitRuntime$ee63 from 'C:/Users/molov/OneDrive/Documents/GitHub/Lotto/node_modules/@nuxt/image/dist/runtime/providers/imagekit.js'
 
 const imageOptions = {
   "screens": {
@@ -22,7 +23,8 @@ const imageOptions = {
 }
 
 imageOptions.providers = {
-  ['static']: { provider: staticRuntime$d67d, defaults: {} }
+  ['static']: { provider: staticRuntime$d67d, defaults: {} },
+  ['imagekit']: { provider: imagekitRuntime$ee63, defaults: {"baseURL":"https://ik.imagekit.io/dcfgub9zs57"} }
 }
 
 Vue.component(NuxtImg.name, NuxtImg)

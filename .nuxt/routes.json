@@ -3,21 +3,18 @@
     "name": "admin",
     "path": "/admin",
     "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto\\\\pages\\\\admin.vue",
-    "chunkName": "pages/admin",
-    "_name": "_72e4806e"
+    "chunkName": "pages/admin"
   },
   {
     "name": "new-lotto",
     "path": "/new-lotto",
     "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto\\\\pages\\\\new-lotto.vue",
-    "chunkName": "pages/new-lotto",
-    "_name": "_18ec3e84"
+    "chunkName": "pages/new-lotto"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto\\\\pages\\\\index.vue",
-    "chunkName": "pages/index",
-    "_name": "_41752c71"
+    "chunkName": "pages/index"
   }
 ]

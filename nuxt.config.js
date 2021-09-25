@@ -45,6 +45,12 @@ export default {
     '@nuxtjs/google-fonts',
   ],
 
+  image: {
+    imagekit: {
+      baseURL: 'https://ik.imagekit.io/dcfgub9zs57'
+    }
+  },
+
   googleFonts: {
     display: 'swap',
     preconnect: true,

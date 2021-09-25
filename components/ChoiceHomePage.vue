@@ -7,12 +7,12 @@
             </div>
             <div class="s-box group grid grid-cols-1 md:grid-cols-2 gap-10">
                 <NuxtLink to="/new-lotto" class="card shadow p-10 rounded-lg hover:bg-white group-hover:text-gray-900">
-                    <nuxt-img class="img-cover" src="/img/img-01.svg" />
+                    <nuxt-img class="img-cover" provider="imagekit" src="/img/img-01.svg" />
                     <h2 class="head-title text-2xl font-bold text-white">NEW LOTTO</h2>
                     <p class="head-desc font-extralight text-center">เพิ่มโพยหวย หวยลาว หวยฮานอย</p>
                 </NuxtLink>
                 <NuxtLink to="/admin" class="card shadow p-10 rounded-lg hover:bg-white group-hover:text-gray-900">
-                    <nuxt-img class="img-cover" src="/img/img-02.svg" />
+                    <nuxt-img class="img-cover" provider="imagekit" src="/img/img-02.svg" />
                     <h2 class="head-title text-2xl font-bold text-white">DASHBOARD</h2>
                     <p class="head-desc font-extralight text-center">เข้าสู่ระบบหลังบ้าน ใช้โดยผู้ดูแลระบบ</p>
                 </NuxtLink>
