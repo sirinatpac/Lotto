@@ -5,6 +5,7 @@ import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
 const _72e4806e = () => interopDefault(import('..\\pages\\admin.vue' /* webpackChunkName: "pages/admin" */))
+const _0b1ccf88 = () => interopDefault(import('..\\pages\\login.vue' /* webpackChunkName: "pages/login" */))
 const _18ec3e84 = () => interopDefault(import('..\\pages\\new-lotto.vue' /* webpackChunkName: "pages/new-lotto" */))
 const _41752c71 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
@@ -23,6 +24,10 @@ export const routerOptions = {
     path: "/admin",
     component: _72e4806e,
     name: "admin"
+  }, {
+    path: "/login",
+    component: _0b1ccf88,
+    name: "login"
   }, {
     path: "/new-lotto",
     component: _18ec3e84,

@@ -3,18 +3,28 @@
     "name": "admin",
     "path": "/admin",
     "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto\\\\pages\\\\admin.vue",
-    "chunkName": "pages/admin"
+    "chunkName": "pages/admin",
+    "_name": "_72e4806e"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_0b1ccf88"
   },
   {
     "name": "new-lotto",
     "path": "/new-lotto",
     "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto\\\\pages\\\\new-lotto.vue",
-    "chunkName": "pages/new-lotto"
+    "chunkName": "pages/new-lotto",
+    "_name": "_18ec3e84"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\molov\\\\OneDrive\\\\Documents\\\\GitHub\\\\Lotto\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_41752c71"
   }
 ]

@@ -77,6 +77,12 @@
                 max-height: 250px;
                 width: 100%;
              }
+
+             .head-block {
+                h2{
+                    font-size: 28px;
+                }
+             }
          }
     }
 </style>

@@ -1,6 +1,7 @@
 export { default as ChoiceHomePage } from '../..\\components\\ChoiceHomePage.vue'
 export { default as Footer } from '../..\\components\\Footer.vue'
 export { default as Header } from '../..\\components\\Header.vue'
+export { default as LoginForm } from '../..\\components\\LoginForm.vue'
 export { default as LottoLogo } from '../..\\components\\LottoLogo.vue'
 
 // nuxt/nuxt.js#8607

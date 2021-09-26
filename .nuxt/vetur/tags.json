@@ -8,6 +8,9 @@
   "Header": {
     "description": "Auto imported from components/Header.vue"
   },
+  "LoginForm": {
+    "description": "Auto imported from components/LoginForm.vue"
+  },
   "LottoLogo": {
     "description": "Auto imported from components/LottoLogo.vue"
   }

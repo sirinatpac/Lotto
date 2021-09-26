@@ -9,4 +9,5 @@ You can directly use them in pages and other components without the need to impo
 - `<ChoiceHomePage>` | `<choice-home-page>` (components/ChoiceHomePage.vue)
 - `<Footer>` | `<footer>` (components/Footer.vue)
 - `<Header>` | `<header>` (components/Header.vue)
+- `<LoginForm>` | `<login-form>` (components/LoginForm.vue)
 - `<LottoLogo>` | `<lotto-logo>` (components/LottoLogo.vue)
